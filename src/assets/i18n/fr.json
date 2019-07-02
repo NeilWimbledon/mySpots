@@ -1,0 +1,11 @@
+{
+	"errors": {
+		"auth": {
+			"exists": "Adresse e-mail déjà utilisée",
+			"invalid": "Adresse courriel invalide",
+			"notAllowed": "Inscription non activée",
+			"unknown": "Erreur inconnue lors de la création de l'utilisateur",
+			"weak": "Mot de passe trop faible, choisissez un mot de passe plus fort"
+		}
+	}
+}

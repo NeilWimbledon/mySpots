@@ -1,0 +1,11 @@
+{
+	"errors": {
+		"auth": {
+			"exists": "Dirección de correo electrónico ya está en uso",
+			"invalid": "La dirección de email no es válida",
+			"notAllowed": "Registro no habilitado",
+			"unknown": "Error desconocido al crear usuario",
+			"weak": "Contraseña demasiado débil, elige una contraseña más fuerte"
+		}
+	}
+}
